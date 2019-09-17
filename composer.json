@@ -1,5 +1,5 @@
 {
-    "name": "serkarn/clickhouse-migrations",
+    "name": "kruteev/clickhouse-migrations",
     "description": "Clickhouse migrations for laravel/lumen",
     "keywords": [
         "laravel",
